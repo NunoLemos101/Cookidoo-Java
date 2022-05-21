@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_destaque"
+        android:title="@string/title_destaque" />
+
+    <item
+        android:id="@+id/navigation_parasi"
+        android:title="@string/title_parasi" />
+
+    <item
+        android:id="@+id/navigation_temas"
+        android:title="@string/title_temas" />
+</menu>

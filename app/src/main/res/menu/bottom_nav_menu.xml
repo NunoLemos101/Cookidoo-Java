@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_explore"
+        android:icon="@drawable/compass"
+        android:title="@string/title_explore" />
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="?android:attr/actionModeWebSearchDrawable"
+        android:title="@string/title_search" />
+
+    <item
+        android:id="@+id/navigation_my_recipes"
+        android:icon="@drawable/book2"
+        android:title="@string/title_my_recipes" />
+    <item
+        android:id="@+id/navigation_my_week"
+        android:icon="@drawable/calendar"
+        android:title="@string/title_my_week" />
+    <item
+        android:id="@+id/navigation_shop_list"
+        android:icon="@drawable/shoppingcart"
+        android:title="@string/title_shop_list" />
+
+</menu>

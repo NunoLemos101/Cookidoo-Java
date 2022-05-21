@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="inactiveTab" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">17sp</item>
+    </style>
+    <style name="activeTab" parent="TextAppearance.AppCompat">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="ShapeAppearance.MyApp.SmallComponent" parent="ShapeAppearance.Material3.SmallComponent">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSize">0dp</item>
+    </style>
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/green_primary</item>
+        <item name="android:height">4dp</item>
+        <item name="android:width">100dp</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.MyApp.SmallComponent</item>k
+    </style>
+</resources>

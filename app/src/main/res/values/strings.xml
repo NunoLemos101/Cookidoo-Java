@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cookidoo</string>
+    <string name="title_explore">Explorar</string>
+    <string name="title_search">Pesquisar</string>
+    <string name="title_my_recipes">Receitas</string>
+    <string name="title_my_week">Minha semana</string>
+    <string name="title_shop_list">Compras</string>
+
+    <string name="title_destaque">Destaque</string>
+    <string name="title_parasi">Para si</string>
+    <string name="title_temas">Temas</string>
+
+    <string name="my_recipes_tab_all">TODAS</string>
+    <string name="my_recipes_tab_created">CRIADAS</string>
+    <string name="my_recipes_tab_saved">GUARDADAS</string>
+
+    <string name="activity_main_scrollview">ActivityMainScrollView</string>
+</resources>
